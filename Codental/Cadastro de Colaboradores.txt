@@ -1,0 +1,7 @@
+Cadastro de dentista
+-- Nome completo
+-- Tipo (dentista/secretário)
+-- CRO
+-- CPF
+-- Telefone
+-- Genero

@@ -1,0 +1,17 @@
+Cadastro da clinica
+-- Nome
+-- Email
+-- Telefone
+-- CEP
+-- Endereco
+-- Bairro
+-- complemento
+-- cidade
+-- Estado
+-- CNPJ ou CPF
+-- Fuso horário
+----------------------------
+Configuração de lembretes
+-- Confirmação automatica via Whatsapp
+-- Mensagem automatica 24hrs antes da consulta (s/n)
+-- Padrão da Mensagem

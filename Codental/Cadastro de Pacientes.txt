@@ -1,0 +1,30 @@
+Cadastro de pacientes:
+-- Nome completo
+-- Celular 
+-- Lembretes: Whats, SMS, Não receber
+-- Genero
+-- CPF
+-- RG
+--Data de Nascimento
+-- Observação
+---------------------------------
+Informações complementares
+-- Email
+-- Telefone Fixo
+-- Cep
+-- Endereço 
+-- Bairro
+-- Complemento 
+-- Cidade
+-- Estado
+---------------------------------
+Informações do responsavel legal
+-- Nome do Responsável
+-- Data Nascimento responsavel
+-- CPF Responsável
+---------------------------------
+Informações do convênio
+-- Tipo Convenio
+-- Nº Documento
+-- Titular do convênio
+-- CPF do responsavel
